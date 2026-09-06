@@ -1,0 +1,7 @@
+interface:
+  display_name: "底层规律决策"
+  short_description: "用证据分级的跨学科模型分析工作、赚钱、学习与生活中的真实问题"
+  default_prompt: "Use $apply-underlying-principles to analyze this real problem and propose a testable next step."
+
+policy:
+  allow_implicit_invocation: true
